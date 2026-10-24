@@ -1,0 +1,628 @@
+[
+ {
+  "etapa": "hojas de personajes",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "8360a265-c5c7-4a89-8317-0099f4573ea0"
+   }
+  ],
+  "prompt": "Character model sheet of the EXACT character in the reference image, same design and same clean hand-drawn cartoon style: bold smooth black outlines, flat colors, white round head with messy swept black hair, small black oval eyes, simple friendly smile, small ears, thin white stick neck, thin white stick arms and legs, oversized black short-sleeve t-shirt, blue denim shorts with rolled cuffs, white sneakers with black laces. Pure white seamless background with a soft gray ground shadow under each figure. Top row: the same character full body five times evenly spaced — front view, three-quarter view, side profile, back view, and waving hello. Bottom row: four head-and-shoulders close-ups of the same character with expressions: happy smile, surprised open mouth, thinking with hand on chin, laughing with eyes closed. Identical character in every view, consistent proportions. No text, no labels, no logos, no watermark."
+ },
+ {
+  "etapa": "hojas de personajes",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "35a46ffc-591e-4f1b-a0fb-e0a03ab19679"
+   }
+  ],
+  "prompt": "Character model sheet of the character in the reference image, same clean hand-drawn cartoon style: bold smooth black outlines, flat colors, big perfectly round white head with three thin hair sprouts on top and no other hair, black oval eyes, one raised curved eyebrow, small smirk, thin white stick neck, thin white stick arms and legs, BUT wearing a mustard-yellow short-sleeve t-shirt (instead of black), blue denim shorts with rolled cuffs, white sneakers. Pure white seamless background with a soft gray ground shadow under each figure. Top row: the same character full body five times evenly spaced — front view, three-quarter view, side profile, back view, and scratching head confused. Bottom row: four head close-ups of the same character with expressions: confused with question look, relieved smile, amazed wide eyes, excited grin. Identical character in every view. No text, no labels, no question marks, no logos, no watermark."
+ },
+ {
+  "etapa": "hojas de personajes",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "f0500845-a906-425b-8a75-e38977ea4628"
+   }
+  ],
+  "prompt": "Character lineup sheet based on the character in the reference image, same character design: white round head with a few thin hair strands, simple black eyes and smile, thick black stick arms and legs, white cartoon gloves, white shirt with a mustard-yellow necktie, white rounded shoes. Render in clean hand-drawn cartoon style with bold smooth black outlines and flat colors on a pure white seamless background with soft gray ground shadows. Show the SAME character three times side by side in three professions: 1) programmer — round black glasses, holding an open plain gray laptop; 2) video editor — over-ear headphones around the neck, holding a black-and-white film clapperboard; 3) designer — black beret, holding a big yellow pencil and a paint palette. Same face, same body proportions in all three. No text, no labels, no logos, no watermark."
+ },
+ {
+  "etapa": "hojas de personajes",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "8360a265-c5c7-4a89-8317-0099f4573ea0"
+   }
+  ],
+  "prompt": "Character model sheet of an original small friendly helper robot drawn in the SAME clean hand-drawn cartoon style as the reference image: bold smooth black outlines, flat colors, mostly white. The robot: rounded white body like a small box with soft corners, a round head with a dark screen face showing two simple white oval eyes and a smile, a short antenna topped with a mustard-yellow bulb, thin white stick arms with round mitten hands, two short stubby legs. About half the height of a person. Pure white seamless background with soft gray ground shadow. Show the same robot five times: front view, three-quarter view, side view, holding up a strip of film, and waving happily. Identical design in every view. No text, no labels, no logos, no watermark."
+ },
+ {
+  "etapa": "hojas de personajes",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "8360a265-c5c7-4a89-8317-0099f4573ea0"
+   },
+   {
+    "role": "image_references",
+    "value": "35a46ffc-591e-4f1b-a0fb-e0a03ab19679"
+   },
+   {
+    "role": "image_references",
+    "value": "f0500845-a906-425b-8a75-e38977ea4628"
+   }
+  ],
+  "prompt": "Cast lineup in one clean hand-drawn cartoon style, bold smooth black outlines, flat colors, pure white seamless background, soft gray ground shadows, all characters standing side by side facing camera at correct relative scale: (1) the character from the first reference image — white round head with messy black hair, black oversized t-shirt, blue denim shorts, white sneakers, hands in pockets; (2) the character from the second reference image — big round white head with three hair sprouts, but wearing a mustard-yellow t-shirt, blue denim shorts, white sneakers, curious smirk; (3) the character from the third reference image — white round head, thick black stick limbs, white gloves, white shirt with mustard-yellow necktie; (4) a small friendly white box-shaped robot with a dark screen face with white oval eyes and a yellow antenna bulb, half their height. Unified style, same line weight for everyone. No text, no labels, no logos, no watermark."
+ },
+ {
+  "etapa": "frames inicio",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "20eba7b8-eb31-4a6b-b4d7-b902788197ae"
+   },
+   {
+    "role": "image_references",
+    "value": "f2a07a55-a479-4aca-97a5-0a483a24f673"
+   }
+  ],
+  "prompt": "Use the exact character designs from the reference sheets (the boy with messy black hair, black oversized t-shirt, blue denim shorts, white sneakers; and the small white robot with dark screen face and yellow antenna bulb). Clean hand-drawn cartoon style, bold smooth black outlines, flat colors. Background: solid flat chroma-key green (pure #00FF00), perfectly uniform, no shadows, no floor, no gradient. Composition: the robot stands at the far LEFT edge of the frame, full body, holding one end of a long horizontal black film strip with white sprocket holes and small picture frames; the film strip stretches across the entire width of the frame at chest height; the boy stands at the far RIGHT edge, full body, holding the other end of the strip with one hand and a pair of giant silver scissors open in the other hand, ready to cut, focused playful face. Both characters small in the frame, lots of green space above and between them. No text, no logos."
+ },
+ {
+  "etapa": "frames inicio",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "1:1",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "efe007af-7757-47a4-bbb5-d48211fb1441"
+   }
+  ],
+  "prompt": "Use the exact character from the reference sheet: big round white head with three hair sprouts, mustard-yellow t-shirt, blue denim shorts, white sneakers, thin stick arms and legs. Clean hand-drawn cartoon style, bold smooth black outlines, flat colors. Background: solid flat chroma-key green (pure #00FF00), perfectly uniform, no shadows, no floor. The character stands full body in the center, scratching his head with one hand, confused worried face, a big hand-drawn black question mark floating above his head. Character occupies about 70 percent of the frame height. No text, no logos."
+ },
+ {
+  "etapa": "frames inicio",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "20eba7b8-eb31-4a6b-b4d7-b902788197ae"
+   }
+  ],
+  "prompt": "Use the exact character from the reference sheet: boy with messy black hair, white round face, black oversized t-shirt, blue denim shorts, white sneakers. Hand-drawn cartoon style with bold black outlines and flat colors, on a warm beige textured paper background with subtle pencil hatching shadows, like an illustrated notebook page. Scene: the boy stands on the right next to a big mustard-yellow mailbox on a post on the left; the mailbox door is closed but bulging and overstuffed, with many white envelopes and paper notes sticking out of the edges, some notes have a small hand-drawn question mark. The boy looks at it with surprised eyes, hand reaching toward the handle. No text, no logos."
+ },
+ {
+  "etapa": "frames inicio",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "9:16",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "20eba7b8-eb31-4a6b-b4d7-b902788197ae"
+   }
+  ],
+  "prompt": "The exact character from the reference sheet (boy with messy black hair, black oversized t-shirt, blue denim shorts, white sneakers) full body, waving hello with a big smile, a few small yellow sparkles around him. Clean modern cartoon style, bold smooth black outlines, flat colors, pure white background with a soft gray ground shadow. Vertical composition, character centered. No text, no logos."
+ },
+ {
+  "etapa": "frames inicio",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "9:16",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "20eba7b8-eb31-4a6b-b4d7-b902788197ae"
+   }
+  ],
+  "prompt": "The same character as the reference sheet (boy with messy black hair, oversized t-shirt, denim shorts, sneakers) full body, waving hello with a big smile, redrawn in a completely different style: rough graphite pencil sketch with crosshatching and visible construction lines on warm beige textured sketchbook paper, monochrome pencil only with a touch of mustard-yellow colored pencil on the shirt. Vertical composition, character centered. No text, no logos."
+ },
+ {
+  "etapa": "frames inicio",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "9:16",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "20eba7b8-eb31-4a6b-b4d7-b902788197ae"
+   }
+  ],
+  "prompt": "The same character as the reference sheet (boy with messy hair, oversized t-shirt, denim shorts, sneakers) full body, waving hello with a big smile, redrawn in a completely different style: white and yellow chalk drawing on a dark black-green chalkboard, chalky textured strokes, a few chalk sparkles around him. Vertical composition, character centered. No text, no logos."
+ },
+ {
+  "etapa": "frames inicio",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "efe007af-7757-47a4-bbb5-d48211fb1441"
+   },
+   {
+    "role": "image_references",
+    "value": "f2a07a55-a479-4aca-97a5-0a483a24f673"
+   }
+  ],
+  "prompt": "Use the exact character designs from the reference sheets: the round-headed character with three hair sprouts and mustard-yellow t-shirt, and the small white robot with dark screen face and yellow antenna bulb. Clean hand-drawn cartoon style, bold smooth black outlines, flat colors. Background: solid flat chroma-key green (pure #00FF00), perfectly uniform, no shadows, no floor. The round-headed character stands at the far LEFT edge of the frame, full body, clapping happily with a huge smile; the robot stands at the far RIGHT edge, full body, clapping too with happy eyes; a few orange cartoon hearts float near each of them. The middle third of the frame is empty green. No text, no logos."
+ },
+ {
+  "etapa": "frames inicio",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "20eba7b8-eb31-4a6b-b4d7-b902788197ae"
+   }
+  ],
+  "prompt": "Use the exact character from the reference sheet: boy with messy black hair, white round face, black oversized t-shirt, blue denim shorts, white sneakers. Clean hand-drawn cartoon style, bold smooth black outlines, flat colors, pure white background with soft gray ground shadow. Scene: the boy stands left of center holding with both hands a big round plain pizza crust covered only in red tomato sauce, and the sauce has a big white play-button triangle drawn in the middle. To the right, a small wooden table with four bowls of toppings: shredded cheese, pepperoni slices, green basil leaves, and a bowl full of tiny golden stars. Friendly chef vibe. No text, no logos."
+ },
+ {
+  "etapa": "frames inicio",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "20eba7b8-eb31-4a6b-b4d7-b902788197ae"
+   }
+  ],
+  "prompt": "Use the exact character from the reference sheet: boy with messy black hair, white round face, black oversized t-shirt, blue denim shorts, white sneakers. Clean hand-drawn cartoon style, bold smooth black outlines, flat colors, pure white background with soft gray ground shadows. Scene: the boy stands on the left side, arm pulled back about to throw a folded white paper airplane that has a tiny cartoon drawing on its wing. On the right side, two empty devices waiting: a big boxy retro television with a white play-button triangle on its dark screen, and next to it a giant smartphone standing upright whose screen shows a simple grid of empty square photo tiles. Generic devices, no brand names. No text, no logos."
+ },
+ {
+  "etapa": "frames inicio",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "20eba7b8-eb31-4a6b-b4d7-b902788197ae"
+   },
+   {
+    "role": "image_references",
+    "value": "efe007af-7757-47a4-bbb5-d48211fb1441"
+   }
+  ],
+  "prompt": "Clean hand-drawn cartoon style, bold smooth black outlines, flat colors, warm beige paper background with subtle pencil texture. Wide scene: a simple city street drawn in line art with a few simple buildings; a giant blank white billboard on a tall pole dominates the right half; on the street below, the boy from the first reference sheet (messy black hair, black oversized t-shirt, denim shorts) stands holding a remote control pointed at the billboard, and four small round-headed stick characters like the second reference sheet (round white heads, simple t-shirts in mustard, white and gray) stand nearby looking up at the empty billboard. No text, no logos."
+ },
+ {
+  "etapa": "frames inicio",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "1:1",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "f9914896-55e2-4fb8-b72f-dab854ad4f75"
+   }
+  ],
+  "prompt": "The exact three characters from the reference sheet standing side by side, full body, evenly spaced with margins: the programmer with round glasses holding an open gray laptop, the video editor with headphones on the neck holding a clapperboard, the designer with a black beret holding a big yellow pencil and a paint palette. Same design: white round heads, thick black stick limbs, white gloves, white shirts with mustard-yellow ties. Clean hand-drawn cartoon style with bold black outlines and flat colors, on a warm beige textured paper background with subtle pencil hatching shadows under their feet. Square composition with space above their heads. No text, no logos."
+ },
+ {
+  "etapa": "frames inicio",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "1:1",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "20eba7b8-eb31-4a6b-b4d7-b902788197ae"
+   }
+  ],
+  "prompt": "Use the exact character from the reference sheet: boy with messy black hair, white round face, black oversized t-shirt, blue denim shorts, white sneakers. Clean hand-drawn cartoon style, bold smooth black outlines, flat colors. Background: solid flat chroma-key green (pure #00FF00), perfectly uniform, no shadows, no floor. The boy stands full body in the center in a thinking pose with his hand on his chin, and a big unlit light bulb (white glass, gray base, drawn with black outline) floats above his head. Character occupies about 65 percent of the frame height, space above for the bulb. No text, no logos."
+ },
+ {
+  "etapa": "frames final",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "1:1",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "962f42b7-2001-44ef-9602-d1128e30a2d1"
+   }
+  ],
+  "prompt": "Edit this image: keep exactly the same character, same clean cartoon style, same solid chroma-key green background and the same framing and size. Change only the pose and expression: the question mark is gone, the character now smiles relieved and happy, giving a big thumbs up with one hand, the other arm relaxed. No text, no logos."
+ },
+ {
+  "etapa": "frames final",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "906a5d6c-beb3-4c90-a81d-0eb56101ee90"
+   }
+  ],
+  "prompt": "Edit this image: same scene, same beige paper notebook style, same mailbox and same boy in the same place. Now the mailbox door is fully open and a huge avalanche of white envelopes and paper notes (some with tiny hand-drawn question marks) bursts out, flying through the air and piling up around the boy up to his knees; the boy leans back laughing with both arms up in surprise. No text, no logos."
+ },
+ {
+  "etapa": "frames final",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "a838d065-5182-4ca5-b460-a94af17373cb"
+   }
+  ],
+  "prompt": "Edit this image: same scene, same clean cartoon style, same white background, same boy, same television and same smartphone in the same places. Now the boy has thrown the paper airplane: his throwing arm is extended forward and he smiles proudly, the airplane is gone, and both devices light up: the television screen now shows a small colorful cartoon of a waving character, and every square tile on the smartphone screen shows a tiny colorful cartoon drawing. A few yellow sparkles around the screens. No text, no logos."
+ },
+ {
+  "etapa": "frames final",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "b052ce71-84d0-4b04-ace0-dde7578b5ee4"
+   },
+   {
+    "role": "image_references",
+    "value": "20eba7b8-eb31-4a6b-b4d7-b902788197ae"
+   }
+  ],
+  "prompt": "Edit the first image: same street scene, same beige paper style, same characters in the same places. Now the giant billboard is lit up and shows a big colorful cartoon of the boy from the second reference image waving happily, with short yellow light rays around the billboard edges; the small characters below jump with joy, arms up, pointing at it. No text, no logos."
+ },
+ {
+  "etapa": "frames final",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "1:1",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "7acc55d7-1050-41c4-863a-429fa00d7d15"
+   }
+  ],
+  "prompt": "Edit this image: same character, same clean cartoon style, same solid chroma-key green background, same framing and size. Now the light bulb above his head is glowing bright yellow with short yellow light rays around it, and the boy is excited with a big open smile, one fist raised in the air in victory. No text, no logos."
+ },
+ {
+  "etapa": "frames final",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "20eba7b8-eb31-4a6b-b4d7-b902788197ae"
+   }
+  ],
+  "prompt": "Use the exact character from the reference sheet: boy with messy black hair, white round face, black oversized t-shirt, blue denim shorts, white sneakers. Clean hand-drawn cartoon style, bold smooth black outlines, flat colors, pure white background with soft gray ground shadow. Scene: the boy stands left of center holding with both hands a big round plain pizza crust covered only in plain tomato sauce, nothing else on it, no drawings or symbols on the sauce; he looks at it with a slightly unimpressed face. To the right, a small wooden table with four bowls of toppings: shredded cheese, pepperoni slices, green basil leaves, and a bowl full of tiny golden stars. No text, no logos."
+ },
+ {
+  "etapa": "frames final",
+  "fecha": "2026-10-21",
+  "tool": "generate_image_batch",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "20eba7b8-eb31-4a6b-b4d7-b902788197ae"
+   }
+  ],
+  "prompt": "Use the exact character from the reference sheet: boy with messy black hair, white round face, black oversized t-shirt, blue denim shorts, white sneakers. Hand-drawn cartoon style with bold black outlines and flat colors on a warm beige textured paper background with subtle pencil hatching shadow under his feet. The boy stands in the center, full body, facing the camera with an excited grin, holding up in front of him a classic black-and-white film clapperboard with the top arm raised open, ready to clap it shut. No text, no writing on the clapperboard, no logos."
+ },
+ {
+  "etapa": "frame final pizza",
+  "fecha": "2026-10-21",
+  "tool": "generate_image",
+  "model": "nano_banana_2_lite",
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "image_references",
+    "value": "38c34a7e-3d75-4336-9970-26f34a0d1c25"
+   }
+  ],
+  "prompt": "Edit this image: same boy, same table, same clean cartoon style, same white background, same framing. Now the pizza he holds is fully topped and delicious: melted cheese, pepperoni slices, green basil leaves and many tiny golden stars sprinkled on top, sparkling with small yellow glints and a little steam; the boy smiles proudly and does a chef's kiss gesture with one hand while balancing the pizza with the other; the bowls on the table are now empty. No text, no logos."
+ },
+ {
+  "etapa": "kling",
+  "fecha": "2026-10-21",
+  "tool": "generate_video_batch",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 4,
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "b84fe317-059f-4a11-8efb-8311c1f3de80"
+   }
+  ],
+  "prompt": "2D cartoon animation, same flat hand-drawn style. The little robot on the left pulls the long film strip taut with both hands. The boy on the right snips through the film strip with the giant scissors in one decisive cut; the cut piece of film flips up into the air and the robot catches it happily and holds it up like a trophy; the boy grins and snips the scissors twice in the air. Static camera, no zoom. The background stays a perfectly flat solid chroma-key green the whole time, no shadows, no new objects."
+ },
+ {
+  "etapa": "kling",
+  "fecha": "2026-10-21",
+  "tool": "generate_video_batch",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 3,
+  "aspect_ratio": "9:16",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "af5fa448-4624-4e0f-9bdd-c92c51a2fc60"
+   }
+  ],
+  "prompt": "2D cartoon animation in the same clean flat style. The boy waves hello enthusiastically with a little happy bounce on his feet, his hair bounces, the yellow sparkles twinkle and pop around him. Static camera, white background stays clean."
+ },
+ {
+  "etapa": "kling",
+  "fecha": "2026-10-21",
+  "tool": "generate_video_batch",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 3,
+  "aspect_ratio": "9:16",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "f8f435fb-ad82-406e-a27f-a35a2c74957a"
+   }
+  ],
+  "prompt": "Hand-drawn pencil sketch animation, boiling sketchy line style like a flipbook. The boy waves hello enthusiastically and does a small happy hop; pencil lines wiggle slightly like a living sketch. Static camera, beige sketchbook paper stays the same."
+ },
+ {
+  "etapa": "kling",
+  "fecha": "2026-10-21",
+  "tool": "generate_video_batch",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 3,
+  "aspect_ratio": "9:16",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "202f6ffb-0e29-4bf6-a1a0-db8ff384ffe5"
+   }
+  ],
+  "prompt": "Chalkboard chalk drawing animation. The boy waves hello enthusiastically and does a small happy hop; little chalk dust puffs and chalk sparkles appear around him as he moves. Static camera, the dark chalkboard stays the same."
+ },
+ {
+  "etapa": "kling",
+  "fecha": "2026-10-21",
+  "tool": "generate_video_batch",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 3,
+  "aspect_ratio": "16:9",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "3eacaa89-009f-4a0c-8dec-16999bb1743b"
+   }
+  ],
+  "prompt": "2D cartoon animation in the same flat style. Both characters clap excitedly and bounce up and down with joy; many orange cartoon hearts pop out around them and float upward, growing and then popping; the robot's yellow antenna bulb blinks. Characters stay at the left and right edges. Static camera. Background stays perfectly flat solid chroma-key green, no shadows."
+ },
+ {
+  "etapa": "kling",
+  "fecha": "2026-10-21",
+  "tool": "generate_video_batch",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 4,
+  "aspect_ratio": "1:1",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "3b42e36d-89f2-442d-97e5-9b97d414cf9e"
+   }
+  ],
+  "prompt": "2D cartoon animation in the same hand-drawn style. One after another from left to right, each character proudly shows off their skill: the programmer types super fast on the laptop, the video editor snaps the clapperboard shut with a clap, the designer swipes a stroke of paint with the big pencil and raises the palette. Each one nods confidently. Static camera, beige paper background unchanged."
+ },
+ {
+  "etapa": "kling start+end",
+  "fecha": "2026-10-21",
+  "tool": "generate_video_batch",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 3,
+  "aspect_ratio": "1:1",
+  "declined_preset_id": "24bae836-2c4a-48e0-89b6-49fcc0b21612",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "962f42b7-2001-44ef-9602-d1128e30a2d1"
+   },
+   {
+    "role": "end_image",
+    "value": "5e98f9cd-4796-4a4e-b5c9-bb62156b32a2"
+   }
+  ],
+  "prompt": "2D cartoon animation, same flat style. The confused character scratches his head, the question mark wobbles and then pops like a bubble and disappears; he exhales with relief, his shoulders drop, he smiles and gives a big confident thumbs up. Static camera. Background stays perfectly flat solid chroma-key green, no shadows."
+ },
+ {
+  "etapa": "kling start+end",
+  "fecha": "2026-10-21",
+  "tool": "generate_video_batch",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 5,
+  "aspect_ratio": "16:9",
+  "declined_preset_id": "24bae836-2c4a-48e0-89b6-49fcc0b21612",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "906a5d6c-beb3-4c90-a81d-0eb56101ee90"
+   },
+   {
+    "role": "end_image",
+    "value": "9152d5dd-0095-458e-8586-bad731f96a28"
+   }
+  ],
+  "prompt": "Hand-drawn notebook cartoon animation. The boy pulls the handle of the overstuffed mailbox; the door bursts open and a huge avalanche of envelopes and paper notes with little question marks explodes out, flying through the air in a fun swirl and piling up around his legs; he leans back laughing with both arms up as letters keep raining down. Static camera, same beige paper background."
+ },
+ {
+  "etapa": "kling start+end",
+  "fecha": "2026-10-21",
+  "tool": "generate_video_batch",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 4,
+  "aspect_ratio": "16:9",
+  "declined_preset_id": "24bae836-2c4a-48e0-89b6-49fcc0b21612",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "a838d065-5182-4ca5-b460-a94af17373cb"
+   },
+   {
+    "role": "end_image",
+    "value": "66e9ce5c-e313-44fe-a914-84c5293e14fc"
+   }
+  ],
+  "prompt": "2D cartoon animation, same clean flat style. The boy throws the paper airplane; it glides in a curve across the white space and dives into the television screen, which flashes and starts showing a colorful cartoon of a waving character; then a burst of sparkles jumps from the TV to the smartphone and each square tile on the phone fills with a tiny colorful cartoon one after another. The boy watches proudly with his arm still extended. Static camera, white background."
+ },
+ {
+  "etapa": "kling start+end",
+  "fecha": "2026-10-21",
+  "tool": "generate_video_batch",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 5,
+  "aspect_ratio": "16:9",
+  "declined_preset_id": "24bae836-2c4a-48e0-89b6-49fcc0b21612",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "b052ce71-84d0-4b04-ace0-dde7578b5ee4"
+   },
+   {
+    "role": "end_image",
+    "value": "b49f4b37-b061-4bcd-8bed-46b01633a489"
+   }
+  ],
+  "prompt": "Hand-drawn notebook cartoon animation. The boy presses the button on his remote; the giant blank billboard flickers on and lights up showing a big colorful cartoon of him waving, with yellow light rays; the small characters on the street gasp, then jump with joy and point up at the billboard. Static camera, same beige paper city background."
+ },
+ {
+  "etapa": "kling start+end",
+  "fecha": "2026-10-21",
+  "tool": "generate_video_batch",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 6,
+  "aspect_ratio": "1:1",
+  "declined_preset_id": "24bae836-2c4a-48e0-89b6-49fcc0b21612",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "7acc55d7-1050-41c4-863a-429fa00d7d15"
+   },
+   {
+    "role": "end_image",
+    "value": "44937882-36e5-4d9c-85f4-36b2961c2afb"
+   }
+  ],
+  "prompt": "2D cartoon animation, same flat style. The boy thinks with his hand on his chin, tapping his chin; suddenly the light bulb above his head flickers and turns on bright yellow with light rays; his eyes go wide, he smiles big and throws his fist up in the air with excitement and a little jump. Static camera. Background stays perfectly flat solid chroma-key green, no shadows."
+ },
+ {
+  "etapa": "kling start+end",
+  "fecha": "2026-10-21",
+  "tool": "generate_video_batch",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 3,
+  "aspect_ratio": "16:9",
+  "declined_preset_id": "24bae836-2c4a-48e0-89b6-49fcc0b21612",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "16ffe766-055e-40e8-8ca9-fcf01cf1c22e"
+   }
+  ],
+  "prompt": "Hand-drawn notebook cartoon animation. The excited boy snaps the clapperboard shut with a sharp clap, a small burst of action lines pops from the clapperboard, then he turns and dashes out of frame to the right leaving speed lines and a little dust puff. Static camera, same beige paper background."
+ },
+ {
+  "etapa": "kling pizza",
+  "fecha": "2026-10-21",
+  "tool": "generate_video",
+  "model": "kling3_0",
+  "mode": "pro",
+  "sound": "off",
+  "duration": 4,
+  "aspect_ratio": "16:9",
+  "declined_preset_id": "24bae836-2c4a-48e0-89b6-49fcc0b21612",
+  "medias": [
+   {
+    "role": "start_image",
+    "value": "38c34a7e-3d75-4336-9970-26f34a0d1c25"
+   },
+   {
+    "role": "end_image",
+    "value": "f54cf142-d152-4a75-9e06-876187446147"
+   }
+  ],
+  "prompt": "2D cartoon animation, same clean flat style. The boy looks unimpressed at the plain sauce-only pizza, then quickly grabs handfuls of toppings from the bowls and sprinkles them onto the pizza: cheese, pepperoni, basil and a shower of tiny golden stars that land and twinkle; the pizza becomes delicious with steam and sparkles; he smiles proudly and does a chef's kiss. Static camera, white background."
+ }
+]
